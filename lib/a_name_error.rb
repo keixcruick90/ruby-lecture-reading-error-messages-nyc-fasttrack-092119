@@ -1,3 +1,6 @@
-"hello world"
+puts "hello world"
 
-hello_world
+a_name_error = "hello world"
+
+a_name_error
+.
